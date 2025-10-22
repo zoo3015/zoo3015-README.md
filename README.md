@@ -5,10 +5,10 @@ Name = "Zoya Ansari"
 Interests = ["Web Development", "Machine Learning", "Competitive Coding"]
 Languages = ["Python", "C++", "React", "Java"]
 
-
 <div align=center>
 
-[![coding waifu x 1000](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE2ejk1anhrajB3bGxwb2ZpbzRwMHd3cGlramdkMmFseXUxY3FpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif)]([[https://github.com/zoo3015])
+[![coding waifu x 1000]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE2ejk1anhrajB3bGxwb2ZpbzRwMHd3cGlramdkMmFseXUxY3FpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif)]([[https://github.com/zoo3015])
+</div>
 
 ### Connect with me:
 <div align=left>
