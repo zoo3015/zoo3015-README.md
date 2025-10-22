@@ -2,7 +2,7 @@
 
 
 python
-Name =  "Shruti Vishwakarma"
+Name =  "Zoya Ansari"
 Interests = ["Competitive Coding", "Machine Learning", "Developing to solve real-world problems"]
 Languages = ["C++", "Python", "React", "Java"]
 
@@ -15,5 +15,5 @@ Languages = ["C++", "Python", "React", "Java"]
 
 ### Connect with me:
 <div align=left>
-<a href="https://www.linkedin.com/in/shruti-v-193146271/" alt="Shruti Vishwakarma | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="[https://www.linkedin.com/in/zoya-ansari-655337227/]/" alt="Zoya Ansari | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 </div>
