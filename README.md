@@ -1,11 +1,11 @@
 ### Hi there!<img src="https://media.tenor.com/images/c4f9807829ab85eaf07682511cf12a1c/tenor.gif" width="30px">
 
 
-python
+'''python
 Name =  "Zoya Ansari"
 Interests = ["Competitive Coding", "Machine Learning", "Developing to solve real-world problems"]
 Languages = ["C++", "Python", "React", "Java"]
-
+'''
 
 <div align=center>
   
